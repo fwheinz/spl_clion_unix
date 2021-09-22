@@ -1,0 +1,26 @@
+2021-09-16:
+
+================================
+Stanford Portable Library
+CLion-project for unix platforms
+================================
+
+Prerequisites:
+
+- Java Runtime Environment
+
+For dpkg-based systems (Ubuntu, Debian, etc.):
+apt install openjdk-11-jre (or openjdk-8-jre, for older systems)
+
+
+- CLion
+
+Download link: https://www.jetbrains.com/clion/download/#section=linux
+Install and activate with free licence.
+Then, apply for a student's licence at
+https://www.jetbrains.com/shop/eform/students
+
+
+
+Now open the directory containing this README as a CLion project.
+
