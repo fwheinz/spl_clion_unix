@@ -24,3 +24,8 @@ https://www.jetbrains.com/shop/eform/students
 
 Now open the directory containing this README as a CLion project.
 
+
+Remarks:
+
+- It might me necessary to install the package "libcanberra-gtk-module",
+  if warnings occur regarding this module on startup.
